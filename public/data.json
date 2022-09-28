@@ -1,0 +1,23 @@
+{
+  "July": {
+    "Brian": 120,
+    "Jim": 60,
+    "Alex": 173,
+    "Jason": 500,
+    "Peter": 1000
+  },
+  "August": {
+    "Brian": 500,
+    "Jim": 150,
+    "Alex": 195,
+    "Jason": 200,
+    "Peter": 100
+  },
+  "September": {
+    "Brian": 400,
+    "Jim": 300,
+    "Alex": 253,
+    "Jason": 800,
+    "Peter": 2000
+  }
+}
